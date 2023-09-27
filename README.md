@@ -1,4 +1,3 @@
-
 <h1>request-credit-system</h1>
 <p align="center">API Rest para um Sistema de Analise de Solicitação de Crédito</p>
 <p align="center">
@@ -44,14 +43,14 @@ recomendo instalar apenas o IntelliJ IDEA e executar o projeto através da IDE *
 
 <a href="https://drive.google.com/file/d/1wxwioDHS1sKFPq4G7b24tVZb-XMnoj-l/view?usp=share_link"> 🚀 Collection Sacola API - Postman</a><br>
 
-<h3>Autor:</h3>
+<h3>Autor:</h3>  
 
 <a href="https://www.linkedin.com/in/eduardo-mauricio-dias/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80340034?s=400&u=40769b5c35fb17143c13886d29983a23a9ac371a&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Eduardo Mauricio Dias </b></sub></a> <a href="https://avatars.githubusercontent.com/u/80340034?s=400&u=40769b5c35fb17143c13886d29983a23a9ac371a&v=4" title="GITHUB"></a>
 
-Desafio da DIO  - Backend em Java e Kotlin 27/09/2023 - GITHUB
+Desafio da DIO  - Backend em Java e Kotlin 27/09/2023 - GITHUB 
 Feito com por Eduardo Maurício Dias 👋🏽 Entre em contato!
 
 
